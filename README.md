@@ -3,9 +3,9 @@
 ![screenshot](Example1.png)
 
 ## Technologies Used
-Python
-Visual Studio Code
-Terminal Shell
+* Python
+* Visual Studio Code
+* Terminal Shell
 
 ## How To Use
 
